@@ -5,7 +5,3 @@ beautifulsoup4
 transformers
 plotly
 uvicorn[standard]
-regex
-collections
-typing
-time
