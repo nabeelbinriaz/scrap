@@ -1,0 +1,11 @@
+fastapi
+pydantic
+selenium
+beautifulsoup4
+transformers
+plotly
+uvicorn
+re
+collections
+typing
+time
