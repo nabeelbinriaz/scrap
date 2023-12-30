@@ -4,8 +4,8 @@ selenium
 beautifulsoup4
 transformers
 plotly
-uvicorn
-re
+uvicorn[standard]
+regex
 collections
 typing
 time
