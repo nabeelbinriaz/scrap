@@ -5,3 +5,5 @@ beautifulsoup4
 transformers
 plotly
 uvicorn[standard]
+tensorflow
+torch
